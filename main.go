@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/tkak/terraform-provider-conoha/conoha"
+        "github.com/suzuki-yosuke/terraform-provider-conoha"
 )
 
 func main() {
